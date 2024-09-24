@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Website Development.**
 
-- 📫 How to reach me **ronybormon289@gmail.com**
+- 📫 How to reach me **ronybormon092@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
