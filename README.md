@@ -14,11 +14,13 @@
 
 <p align="left"> <a href="https://twitter.com/adhayanrony" target="blank"><img src="https://img.shields.io/twitter/follow/adhayanrony?logo=twitter&style=for-the-badge" alt="adhayanrony" /></a> </p>
 
+- 🔭 I’m currently working on **fiverr.com**
+
 - 🔭 I’m currently working on **upwork.com**
 
-- 🌱 I’m currently learning **Javascript.**
-
 - 🔭 I’m currently working on **freelancer.com**
+
+- 🌱 I’m currently learning **Javascript.**
 
 - 👨‍💻 All of my projects are available at [https://adhayanrony.github.io/Portfolio](https://adhayanrony.github.io/Portfolio)
 
