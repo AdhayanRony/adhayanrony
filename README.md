@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhayanrony&label=Profile%20views&color=0e75b6&style=flat" alt="adhayanrony" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adhayanrony" target="blank"><img src="https://img.shields.io/twitter/follow/adhayanrony?logo=twitter&style=for-the-badge" alt="adhayanrony" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/adhayanrony" target="blank"><img src="https://img.shields.io/linkedin/follow/adhayanrony?logo=twitter&style=for-the-badge" alt="adhayanrony" /></a> </p>
 
 - 🔭 I’m currently working on **fiverr.com**
 
